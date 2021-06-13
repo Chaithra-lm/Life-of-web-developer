@@ -1,0 +1,67 @@
+/* 
+
+Project Name: Cookie Monster 
+Client: Cookie Monster
+Author: Chaithra L M 
+Developed @ One Month in NYC 
+
+*/
+
+body {
+	background-position: right;
+	background-attachment: fixed;
+	background-size: cover;
+	background-image: url('../images/front-end-developer.jpg');
+}
+
+h1 {
+	font-size: 70px;
+	color: #01204B;
+}
+h2 {
+	background-color: #F36C08;
+	color:black;
+	padding: 5px;
+	border-radius: 5px;
+}
+a {
+	color: #FF4F33;
+	text-decoration: none;
+	border-radius:3px;
+	shape-image-threshold:0.2;
+	border-radius:90px;
+}
+div.container {
+	position: absolute;
+	right: 0;
+	width: 400px;
+	height: 1250px;
+	border: 3px solid unset;
+	padding: 30px;
+	background-color: #70D8F2;
+	color: #01204B;
+}
+div.container2 {
+	position: absolute;
+	left: 0;
+	width: 300px;
+	height: 600px;
+	border: 3px solid unset;
+	padding: 30px;
+	background-color: #70D8F2;
+	color: #01204B;
+}
+h4 {
+	font-size: 40px;
+}
+h5 {
+	background-color: #F36C08;
+	color: black;
+	padding: 5px;
+	border-radius: 5px;
+	font-size:20px;
+}
+ul{
+	font-size:30px;
+}
+
